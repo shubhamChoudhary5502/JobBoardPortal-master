@@ -159,5 +159,3 @@ Frontend can be tested manually via browser or automated using testing tools lik
 - 🌍 Deploy to Vercel/Render  
 
 ---
-
-Let me know if you’d like me to generate a separate `README.md` for the React frontend (`client/` folder) as well!
